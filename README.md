@@ -1,20 +1,14 @@
-# 👨‍💻 Viviens Roland KAPUKU MPIANA
+# Viviens Roland KAPUKU MPIANA
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
-Développeur Full-Stack basé à **Abomey-Calavi, Bénin 🇧🇯**, originaire de la **RDC 🇨🇩**.  
-Je conçois et déploie des applications web et mobiles sécurisées, robustes et scalables — de la modélisation base de données jusqu'à la mise en production.  
+Je conçois et déploie des applications web et mobiles sécurisées, robustes et scalables de la modélisation base de données jusqu'à la mise en production.  
+
 Passionné par la donnée, l'architecture logicielle propre et l'impact concret des solutions numériques.
 
 <p align="left">
-  <a href="mailto:viviensxby@gmail.com">
-    <img alt="Email" title="Me contacter par email" src="https://custom-icon-badges.demolab.com/badge/-viviensxby@gmail.com-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=C5221F"/>
-  </a>
-  <a href="https://github.com/viviensxby?tab=followers">
-    <img alt="followers" title="Me suivre sur GitHub" src="https://custom-icon-badges.demolab.com/github/followers/viviensxby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/viviensxby?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars sur GitHub" src="https://custom-icon-badges.demolab.com/github/stars/viviensxby?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="mailto:blackodeslab@gmail.com">
+    <img alt="Email" title="Me contacter par email" src="https://custom-icon-badges.demolab.com/badge/-blackodeslab@gmail.com-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=C5221F"/>
   </a>
 </p>
 
@@ -78,16 +72,12 @@ Conception et développement from scratch d'une **plateforme web & mobile sécur
 - Infrastructure VPS sécurisée (Nginx, Linux, Cron jobs, versioning Android/iOS)
 - Archivage cloud automatisé (AWS S3 API), documentation technique complète
 
-> 🔗 [minitpkin.app/home](https://minitpkin.app/home) · [Attestation](https://tinyurl.com/attestation-ncg-v2)
-
 ---
 
 **📊 Gestionnaire d'outils de collecte & Analyste de données** · *KARTILE* · Kinshasa, RDC  
 `Mars – Sept. 2024`
 
 Conception et déploiement d'outils numériques de collecte (KoboToolbox), traitement et analyse de données avec **R**, dashboards interactifs avec **R Shiny**.
-
-> 🔗 [Attestation](https://tinyurl.com/attestation-kartile)
 
 ---
 
@@ -96,16 +86,12 @@ Conception et déploiement d'outils numériques de collecte (KoboToolbox), trait
 
 Co-supervision de la numérisation et structuration des archives judiciaires (2000–2022) pour l'**ANEPIJ** (Agence Nationale de l'Équipement et du Patrimoine Immobilier de la Justice du Bénin).
 
-> 🔗 [Attestation](https://tinyurl.com/attestation-leadd)
-
 ---
 
 **🏦 Agent Front Office** · *Equity BCDC* · Kinshasa, RDC  
 `Jan. 2016 – Jan. 2017`
 
 Opérations bancaires (encaissements, virements, change de devises), gestion de la relation client, ouverture de comptes et souscriptions.
-
-> 🔗 [Attestation](https://tinyurl.com/attestation-ebdrc)
 
 ---
 
@@ -116,8 +102,6 @@ Opérations bancaires (encaissements, virements, change de devises), gestion de 
 | 🎓 **Master** · Mathematics, Economics & Statistics | African School of Economics · Cotonou, Bénin | 2019 – 2021 |
 | 🎓 **Bac+5** · Informatique de Gestion | Institut Supérieur Pédagogique de la Gombe · Kinshasa, RDC | 2011 – 2016 |
 | 🎓 **Baccalauréat** · Chimie-Biologie | Collège Bosembo · Kinshasa, RDC | 2008 – 2009 |
-
-> 🔗 Diplômes : [Bac+5](https://tinyurl.com/diplome-BAC5) · [Bac+3](https://tinyurl.com/diplome-BAC3) · [Bac](https://tinyurl.com/diplome-BAC)
 
 ---
 
@@ -142,21 +126,12 @@ Opérations bancaires (encaissements, virements, change de devises), gestion de 
 
 | Langue | Niveau |
 |---|---|
-| 🇫🇷 Français | Courant — Langue maternelle (C1+ certifié) |
-| 🇬🇧 Anglais | B1–B2 (oral & écrit) |
+| 🇫🇷 Français | Courant - Langue maternelle (C1+ certifié) |
+| 🇬🇧 Anglais | B1-B2 (oral & écrit) |
 | 🗣️ Lingala | Courant |
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viviensxby&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviensxby&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 <p align="center">
-  <i>"Le code propre n'est pas écrit pour les machines — il est écrit pour les humains qui viennent après toi."</i>
+  <i>"Le code propre n'est pas écrit pour les machines. Il est écrit pour les humains qui viennent après toi."</i>
 </p>
