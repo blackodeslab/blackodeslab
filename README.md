@@ -76,40 +76,52 @@ Conception et développement d'une **plateforme web & mobile sécurisée** pour 
 
 #### 1. Conception et architecture du système
 
-Participation à l'analyse des besoins fonctionnels et techniques, puis responsabilité complète du développement : modélisation PostgreSQL, architecture API REST (Node.js / Express) couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
+*  Participation à l'analyse des besoins fonctionnels et techniques.
+*  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
 
 #### 2. Workflow de validation hiérarchique multi-niveaux
 
-Développement d'un moteur de workflow calqué sur l'organigramme institutionnel. 14 niveaux de rôles (du ministre à l'agent de terrain) avec droits strictement définis, contrôle d'accès RBAC systématique et traçabilité complète (auteur + horodatage) de chaque décision.
+*  Développement d'un moteur de workflow calqué sur l'organigramme institutionnel.
+*  14 niveaux de rôles (du ministre à l'agent de terrain) avec droits strictement définis, contrôle d'accès RBAC systématique et traçabilité complète (auteur + horodatage) de chaque décision.
 
 #### 3. Module de reporting quotidien des agents de terrain
 
-Module de rapports journaliers permettant aux agents de saisir leurs avancements par poste de travaux (fondation, roulement, caniveaux, signalisation…), avec photos et observations. Workflow de validation superviseur intégré, mesure automatique des délais de soumission et notifications email à chaque étape.
+*  Module de rapports journaliers permettant aux agents de saisir leurs avancements par poste de travaux (fondation, roulement, caniveaux, signalisation, ...), avec photos et observations.
+*  Workflow de validation superviseur intégré, mesure automatique des délais de soumission et notifications email à chaque étape.
 
 #### 4. Module de suivi analytique des rapports soumis
 
-Vue temps réel des rapports soumis, filtrable par date et mot-clé. Export Excel (une feuille par journée) et PDF avec en-tête institutionnel et pied de page horodaté, compatible web et Android.
+*  Vue temps réel des rapports soumis, filtrable par date et mot-clé.
+*  Export Excel (une feuille par journée) et PDF avec en-tête institutionnel et pied de page horodaté, compatible web et Android.
 
 #### 5. Module de présence intelligente des agents
 
-Système de présence basé sur les connexions à la plateforme. Calcul intelligent excluant les agents non encore recrutés à la date analysée. Indicateurs temps réel : taux de présence, d'absentéisme et de soumission de rapports. Export Excel mensuel en grille calendrier par agent, avec symboles Présent / Absent / Non attendu.
+*  Système de présence basé sur les connexions à la plateforme. Calcul intelligent excluant les agents non encore recrutés à la date analysée.
+*  Indicateurs temps réel : taux de présence, d'absentéisme et de soumission de rapports. Export Excel mensuel en grille calendrier par agent, avec symboles Présent / Absent / Non attendu.
 
 #### 6. Portail de géolocalisation en temps réel
 
-Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut (vert pour connecté, orange pour déconnecté). Filtres par projet ou agent, panneau d'indicateurs en temps réel et détection des terminaux sans coordonnées GPS.
+*  Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut (vert pour connecté, orange pour déconnecté).
+*  Filtres par projet ou agent, panneau d'indicateurs en temps réel et détection des terminaux sans coordonnées GPS.
 
 #### 7. Synchronisation GPS en temps réel par WebSockets
 
-Architecture WebSocket avec authentification par jeton de session. Positions transmises, enregistrées, mises en cache et diffusées aux superviseurs instantanément. Limitation anti-abus à une mise à jour toutes les 30 secondes. 
-**Mode offline** : accumulation locale des positions, envoi en lot au retour réseau et reconstruction chronologique en transaction atomique.
+*  Architecture WebSocket avec authentification par jeton de session.
+*  Positions transmises, enregistrées, mises en cache et diffusées aux superviseurs instantanément. Limitation anti-abus à une mise à jour toutes les 30 secondes.
+*  Mode offline : accumulation locale des positions, envoi en lot au retour réseau et reconstruction chronologique en transaction atomique.
 
 #### 8. Sécurité et gestion des accès
 
-Authentification à deux facteurs (mot de passe + OTP email). Sessions JWT avec invalidation globale. Fingerprinting des appareils et historique de connexion par terminal. Headers HTTP sécurisés (XSS, clickjacking), rate limiting anti-brute force et nettoyage automatique des entrées. Tâches nocturnes : purge des sessions expirées et verrouillage des comptes inactifs.
+*  Authentification à deux facteurs (mot de passe + OTP email). Sessions JWT avec invalidation globale.
+*  Fingerprinting des appareils et historique de connexion par terminal.
+*  Headers HTTP sécurisés (XSS, clickjacking), rate limiting anti-brute force et nettoyage automatique des entrées.
+*  Tâches nocturnes : purge des sessions expirées et verrouillage des comptes inactifs.
 
 #### 9. Module de paiement et gestion d'abonnement
 
-Système de licence conditionnant l'accès aux fonctionnalités d'écriture. Intégration de deux passerelles en production : PayPal (carte bancaire) et PawaPay (Mobile Money). Confirmation email automatique et gestion du cycle de vie des licences (activation, expiration, alertes préventives).
+*  Système de licence conditionnant l'accès aux fonctionnalités d'écriture.
+*  Intégration de deux passerelles en production : PayPal (carte bancaire) et PawaPay (Mobile Money).
+*  Confirmation email automatique et gestion du cycle de vie des licences (activation, expiration, alertes préventives).
 
 #### 10. Archivage et sauvegarde automatisée
 
@@ -117,11 +129,14 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 #### 11. Interface web et mobile Android
 
-Architecture Angular modulaire avec lazy loading, guards de navigation par rôle, intercepteurs HTTP centralisés et état réactif (RxJS). Génération de PDF institutionnels, Excel multi-feuilles et captures de carte. Application traduite en 2 langues (français, anglais), compilée Android via Capacitor avec géolocalisation en arrière-plan.
+*  Architecture Angular modulaire avec lazy loading, guards de navigation par rôle, intercepteurs HTTP centralisés et état réactif (RxJS).
+*  Génération de PDF institutionnels, Excel multi-feuilles et captures de carte.
+*  Application traduite en 2 langues (français, anglais), compilée Android via Capacitor avec géolocalisation en arrière-plan.
 
 #### 12. Déploiement et administration système
 
-Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production. Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
+*  Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production.
+*  Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
 **🏗️ PROJET 2**
 
