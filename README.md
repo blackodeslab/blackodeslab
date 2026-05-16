@@ -41,8 +41,8 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 #### 📊 Data & BI
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Leaflet](https://img.shields.io/badge/leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white) 
 ![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) 
+![Leaflet](https://img.shields.io/badge/leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white) 
 ![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
