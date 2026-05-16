@@ -1,4 +1,4 @@
-# Viviens Roland KAPUKU MPIANA
+# Viviens KAPUKU
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
