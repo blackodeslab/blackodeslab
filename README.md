@@ -12,7 +12,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### Langages & Frameworks
+### 🧰 Langages & Frameworks
 
 #### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,9 +78,9 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### Projets Cléas Réalisés
+### 💼 Projets Cléas Réalisés
 
-**🏗️ Consultant IT – Développeur Full-Stack**
+**Consultant IT – Développeur Full-Stack**
 `Sept. 2025 – Présent`
 
 Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
