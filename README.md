@@ -127,25 +127,25 @@ Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire d
 
 Conception et développement d'une plateforme de trading binaire et multi-options basée sur l'algorithme LMSR (Logarithmic Market Scoring Rule). Un écosystème Fintech complet gérant des flux financiers réels, de la liquidité algorithmique et une haute sécurité transactionnelle.
 
-#### 1. Ingénierie Financière & Moteur de Trading (Node.js)
+#### 1. Ingénierie Financière & Moteur de Trading
 
 *   **Moteur LMSR :** Implémentation de l'algorithme Logarithmic Market Scoring Rule pour garantir une liquidité continue et un calcul dynamique des prix des parts en temps réel, évitant les carnets d'ordres vides.
 *   **Gestion Atomique des Transactions :** Utilisation de transactions SQL ACID et de verrous pessimistes (LOCK FOR UPDATE) pour garantir l'intégrité des balances lors d'achats simultanés haute-fréquence.
 *   **Logique de Résolution Complexe :** Programmation d'un moteur de redistribution automatisé gérant 4 scénarios de verdict (Gains compétitifs, Remboursement intégral, Absence de gagnant, Annulation) avec calcul de commissions sur gains nets.
 
-#### 2. Sécurité Offensive & Hardening (Cybersecurity-First
+#### 2. Sécurité Offensive & Hardening
 
 *   **Pentest & Audits OWASP :** Réalisation de tests de pénétration automatisés contre les vecteurs d'attaque majeurs : Broken Access Control (BOLA/IDOR), Mass Assignment (protection Joi stripUnknown), et Insecure JWT.
 *   **Sécurisation des Flux Monétaires :** Validation obligatoire par OTP pour tout mouvement de fonds (Dépôt, Retrait, Achat, Revente) avec gestion de l'expiration temporelle et des tentatives.
 *   **Device Guard & Idempotence :** Mise en place d'un header d'idempotence (x-idempotency-key) via Redis pour empêcher les doubles débits accidentels et suivi de l'empreinte matérielle des appareils.
 
-### 3. Infrastructure Temps Réel & DevOps (Redis, BullMQ, WebSocket)
+#### 3. Infrastructure Temps Réel & DevOps
 
 *   **Communication Temps Réel :** Déploiement d'une architecture WebSocket sécurisée (handshake JWT synchronisé) pour la diffusion instantanée des changements de cotes et des flux d'activité (Feed, Whales).
 *   **Architecture Distribuée :** Utilisation de Redis Pub/Sub pour synchroniser les messages WebSocket entre instances et BullMQ pour le traitement asynchrone des paiements (PawaPay) et des notifications emails.
 *   **Calibration Performance :** Optimisation PostgreSQL (pooling à 80 connexions simultanées) et calibrage VPS NVMe pour supporter des pics de charge transactionnelle.
 
-#### 4. Frontend & Expérience Utilisateur (Ionic / UI Premium)
+#### 4. Frontend & Expérience Utilisateur
 
 *   **Aesthetics & UX :** Développement d'une interface premium "Vibrant Dark Mode" avec micro-animations, graphiques de probabilités dynamiques et sélecteurs de prix intelligents pour une expérience utilisateur fluide et addictive.
 *   **Gestion d'État Complexe :** Synchronisation bidirectionnelle entre l'état local Angular et les flux WebSocket pour mettre à jour les prix sans rafraîchissement, garantissant des données toujours fraîches pour le trading.
