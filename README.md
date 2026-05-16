@@ -85,19 +85,14 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
-#### CONCEPTION ET ARCHITECTURE DU SYSTÈME
+#### 1. Conception et architecture du système
 
-- Participation à l'analyse des besoins fonctionnels et techniques, puis responsabilité complète du développement : modélisation PostgreSQL, architecture API REST (Node.js / Express) couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
+Participation à l'analyse des besoins fonctionnels et techniques, puis responsabilité complète du développement : modélisation PostgreSQL, architecture API REST (Node.js / Express) couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
 
-#### WORKFLOW DE VALIDATION HIÉRARCHIQUE MULTI-NIVEAUX
+#### 2. Workflow de validation hiérarchique multi-niveaux
 
-- Workflow de validation hiérarchique sur **14 niveaux de rôles institutionnels**, avec notifications email automatiques
-- Tableau de bord analytique (KPI, Taux de Réalisation Global, suivi financier, graphiques 12 mois)
-- Module de présence intelligente & reporting quotidien des agents de terrain
-- Authentification à deux facteurs (OTP), fingerprinting terminal, verrouillage dynamique
-- Intégration paiement : **PayPal** + **PawaPay V2 (Mobile Money)**
-- Infrastructure VPS sécurisée (Nginx, Linux, Cron jobs, versioning Android/iOS)
-- Archivage cloud automatisé (AWS S3 API), documentation technique complète
+Développement d'un moteur de workflow calqué sur l'organigramme institutionnel. 14 niveaux de rôles (du ministre à l'agent de terrain) avec droits strictement définis, contrôle d'accès RBAC systématique et traçabilité complète (auteur + horodatage) de chaque décision.
+
   
 ---
 
