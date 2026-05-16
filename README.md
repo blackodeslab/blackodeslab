@@ -122,6 +122,8 @@ Architecture Angular modulaire avec lazy loading, guards de navigation par rôle
 #### 12. Déploiement et administration système
 
 Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production. Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
+
+**🏗️ PROJET 2**
   
 ---
 
