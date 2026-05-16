@@ -159,7 +159,7 @@ Conception et développement d'une plateforme de trading binaire et multi-option
 
 *   Communication Temps Réel : Déploiement d'une architecture WebSocket sécurisée (handshake JWT synchronisé) pour la diffusion instantanée des changements de cotes et des flux d'activité (Feed, Whales).
 *   Architecture Distribuée : Utilisation de Redis Pub/Sub pour synchroniser les messages WebSocket entre instances et BullMQ pour le traitement asynchrone des paiements (PawaPay) et des notifications emails.
-*   Calibration Performance : Optimisation PostgreSQL (pooling à 80 connexions simultanées) et calibrage VPS NVMe pour supporter des pics de charge transactionnelle.
+*   Calibration Performance : Optimisation PostgreSQL et calibrage VPS NVMe pour supporter des pics de charge transactionnelle.
 
 #### 4. Frontend & Expérience Utilisateur
 
