@@ -93,6 +93,22 @@ Participation à l'analyse des besoins fonctionnels et techniques, puis responsa
 
 Développement d'un moteur de workflow calqué sur l'organigramme institutionnel. 14 niveaux de rôles (du ministre à l'agent de terrain) avec droits strictement définis, contrôle d'accès RBAC systématique et traçabilité complète (auteur + horodatage) de chaque décision.
 
+#### 3. Module de reporting quotidien des agents de terrain
+
+Module de rapports journaliers permettant aux agents de saisir leurs avancements par poste de travaux (fondation, roulement, caniveaux, signalisation…), avec photos et observations. Workflow de validation superviseur intégré, mesure automatique des délais de soumission et notifications email à chaque étape.
+
+#### 4. Module de suivi analytique des rapports soumis
+
+Vue temps réel des rapports soumis, filtrable par date et mot-clé. Export Excel (une feuille par journée) et PDF avec en-tête institutionnel et pied de page horodaté, compatible web et Android.
+
+#### 5. Module de présence intelligente des agents
+
+Système de présence basé sur les connexions à la plateforme. Calcul intelligent excluant les agents non encore recrutés à la date analysée. Indicateurs temps réel : taux de présence, d'absentéisme et de soumission de rapports. Export Excel mensuel en grille calendrier par agent, avec symboles Présent / Absent / Non attendu.
+
+#### 6. Portail de géolocalisation en temps réel
+
+Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut (vert pour connecté, orange pour déconnecté). Filtres par projet ou agent, panneau d'indicateurs en temps réel et détection des terminaux sans coordonnées GPS.
+
   
 ---
 
