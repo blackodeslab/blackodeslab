@@ -70,7 +70,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ### 💼 Réalisations importantes
 
-**🏗️ Projet 1**
+**🏗️ PROJET 1**
 
 Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
