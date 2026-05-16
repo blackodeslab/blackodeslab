@@ -2,8 +2,6 @@
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
-Je conçois et déploie des applications web et mobiles sécurisées, robustes et scalables de la modélisation base de données jusqu'à la mise en production.  
-
 Passionné par la donnée, l'architecture logicielle propre et l'impact concret des solutions numériques.
 
 <p align="left">
