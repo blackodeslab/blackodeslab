@@ -181,7 +181,7 @@ Conception et développement d'une plateforme de trading binaire et multi-option
 
 | Certification | Organisme | Année |
 |---|---|---|
-| 🗣️ Test de Langue Française — C1+ | Bright Language Testing LLC | 2024 |
+| 🗣️ Test de Langue Française - C1+ | Bright Language Testing LLC | 2024 |
 | 📋 MEAL dans les situations d'urgence | Save the Children / Kaya | 2024 |
 | 💸 Fondamentaux des transferts monétaires | CALP Network / Kaya | 2024 |
 | 📊 Data Science Summer School | Hertie School Data Science Lab | 2022 |
