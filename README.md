@@ -54,7 +54,6 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Antigravity](https://img.shields.io/badge/antigravity-%23000000.svg?style=for-the-badge&logo=data&logoColor=white)
 
 #### 🖥️ Systèmes & Virtualisation
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -68,10 +67,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 ![Google Forms](https://img.shields.io/badge/google%20forms-%23673AB7.svg?style=for-the-badge&logo=google&logoColor=white)
 
 #### 📎 Bureautique
-![Microsoft Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/word-%232B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/powerpoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/access-%23A4373A.svg?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/microsoft%20office-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/google%20sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/google%20docs-%234285F4.svg?style=for-the-badge&logo=google-docs&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/google%20slides-%23FBBC04.svg?style=for-the-badge&logo=google&logoColor=white)
