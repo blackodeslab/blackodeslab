@@ -68,11 +68,11 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### 💼 Réalisations importantes
+### 💼 Réalisations majeures
 
 **🏗️ PROJET 1**
 
-Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
+Conception et développement d'une **plateforme web & mobile sécurisée** pour la digitalisation du **suivi des projets d'infrastructure routière** du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
 #### 1. Conception et architecture du système
 
@@ -124,6 +124,8 @@ Architecture Angular modulaire avec lazy loading, guards de navigation par rôle
 Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production. Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
 **🏗️ PROJET 2**
+
+Conception et développement d'une plateforme de trading binaire et multi-options basée sur l'algorithme LMSR (Logarithmic Market Scoring Rule). Un écosystème Fintech complet gérant des flux financiers réels, de la liquidité algorithmique et une haute sécurité transactionnelle.
   
 ---
 
