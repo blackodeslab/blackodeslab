@@ -78,7 +78,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### 💼 Projets Cléas Réalisés
+### 💼 Projets Clés Réalisés
 
 **Consultant IT – Développeur Full-Stack**
 `Sept. 2025 – Présent`
