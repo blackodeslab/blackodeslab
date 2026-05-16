@@ -130,9 +130,3 @@ Conception et développement from scratch d'une **plateforme web & mobile sécur
 | 🇫🇷 Français | Courant - Langue maternelle (C1+ certifié) |
 | 🇬🇧 Anglais | B1-B2 (oral & écrit) |
 | 🗣️ Lingala | Courant |
-
----
-
-<p align="center">
-  <i>"Le code propre n'est pas écrit pour les machines. Il est écrit pour les humains qui viennent après toi."</i>
-</p>
