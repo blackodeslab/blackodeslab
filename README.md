@@ -100,9 +100,9 @@ Conception et développement from scratch d'une **plateforme web & mobile sécur
 
 | Diplôme | Établissement | Période |
 |---|---|---|
-| 🎓 **Master** · Mathematics, Economics & Statistics | African School of Economics · Cotonou, Bénin | 2019 – 2021 |
-| 🎓 **Bac+5** · Informatique de Gestion | Institut Supérieur Pédagogique de la Gombe · Kinshasa, RDC | 2011 – 2016 |
-| 🎓 **Baccalauréat** · Chimie-Biologie | Collège Bosembo · Kinshasa, RDC | 2008 – 2009 |
+| **Master** · Mathematics, Economics & Statistics | African School of Economics, Bénin | 2019 – 2021 |
+| **Bac+5** · Informatique de Gestion | Institut Supérieur Pédagogique de la Gombe, RDC | 2011 – 2016 |
+| **Baccalauréat** · Chimie-Biologie | Collège Bosembo, RDC | 2008 – 2009 |
 
 ---
 
