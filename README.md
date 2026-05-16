@@ -77,7 +77,8 @@ Conception et développement d'une **plateforme web & mobile sécurisée** pour 
 #### 1. Conception et architecture du système
 
 *  Participation à l'analyse des besoins fonctionnels et techniques.
-*  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
+*  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST.
+*  Interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
 
 #### 2. Workflow de validation hiérarchique multi-niveaux
 
