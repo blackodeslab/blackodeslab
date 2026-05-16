@@ -95,28 +95,7 @@ Conception et développement from scratch d'une **plateforme web & mobile sécur
 - Intégration paiement : **PayPal** + **PawaPay V2 (Mobile Money)**
 - Infrastructure VPS sécurisée (Nginx, Linux, Cron jobs, versioning Android/iOS)
 - Archivage cloud automatisé (AWS S3 API), documentation technique complète
-
----
-
-**📊 Gestionnaire d'outils de collecte & Analyste de données** · *KARTILE* · Kinshasa, RDC  
-`Mars – Sept. 2024`
-
-Conception et déploiement d'outils numériques de collecte (KoboToolbox), traitement et analyse de données avec **R**, dashboards interactifs avec **R Shiny**.
-
----
-
-**🗂️ Prestataire** · *Leadership et Développement (LEADD)* · Cotonou, Bénin  
-`Mars – Déc. 2023`
-
-Co-supervision de la numérisation et structuration des archives judiciaires (2000–2022) pour l'**ANEPIJ** (Agence Nationale de l'Équipement et du Patrimoine Immobilier de la Justice du Bénin).
-
----
-
-**🏦 Agent Front Office** · *Equity BCDC* · Kinshasa, RDC  
-`Jan. 2016 – Jan. 2017`
-
-Opérations bancaires (encaissements, virements, change de devises), gestion de la relation client, ouverture de comptes et souscriptions.
-
+  
 ---
 
 ### 🎓 Parcours Académique
