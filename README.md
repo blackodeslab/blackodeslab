@@ -12,7 +12,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### 🧰 Langages & Frameworks
+### Langages & Frameworks
 
 #### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,12 +78,12 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ---
 
-### 💼 Expériences Professionnelles
+### Projets Cléas Réalisés
 
 **🏗️ Consultant IT – Développeur Full-Stack** · *New Continent Group DRC SARL* · Kinshasa, RDC  
 `Sept. 2025 – Présent`
 
-Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des ITPKIN (RDC).
+Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
 - Portail SIG temps réel (KMZ, carte satellite, flotte d'agents GPS, synchronisation offline)
 - Workflow de validation hiérarchique sur **14 niveaux de rôles institutionnels**, avec notifications email automatiques
