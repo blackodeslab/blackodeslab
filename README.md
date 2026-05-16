@@ -80,7 +80,7 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 ### Projets Cléas Réalisés
 
-**🏗️ Consultant IT – Développeur Full-Stack** · *New Continent Group DRC SARL* · Kinshasa, RDC  
+**🏗️ Consultant IT – Développeur Full-Stack**
 `Sept. 2025 – Présent`
 
 Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
