@@ -109,6 +109,30 @@ Système de présence basé sur les connexions à la plateforme. Calcul intellig
 
 Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut (vert pour connecté, orange pour déconnecté). Filtres par projet ou agent, panneau d'indicateurs en temps réel et détection des terminaux sans coordonnées GPS.
 
+#### 7. Synchronisation GPS en temps réel par WebSockets
+
+Architecture WebSocket avec authentification par jeton de session. Positions transmises, enregistrées, mises en cache et diffusées aux superviseurs instantanément. Limitation anti-abus à une mise à jour toutes les 30 secondes. 
+**Mode offline** : accumulation locale des positions, envoi en lot au retour réseau et reconstruction chronologique en transaction atomique.
+
+#### 8. Sécurité et gestion des accès
+
+Authentification à deux facteurs (mot de passe + OTP email). Sessions JWT avec invalidation globale. Fingerprinting des appareils et historique de connexion par terminal. Headers HTTP sécurisés (XSS, clickjacking), rate limiting anti-brute force et nettoyage automatique des entrées. Tâches nocturnes : purge des sessions expirées et verrouillage des comptes inactifs.
+
+#### 9. Module de paiement et gestion d'abonnement
+
+Système de licence conditionnant l'accès aux fonctionnalités d'écriture. Intégration de deux passerelles en production : PayPal (carte bancaire) et PawaPay (Mobile Money). Confirmation email automatique et gestion du cycle de vie des licences (activation, expiration, alertes préventives).
+
+#### 10. Archivage et sauvegarde automatisée
+
+Sauvegarde nocturne automatique : dump base de données + compression des fichiers uploadés, archivage horodaté, transfert multipart streaming vers stockage cloud (AWS S3). 3 tentatives en cas d'échec, email de confirmation aux administrateurs et purge automatique selon politique de rétention.
+
+#### 11. Interface web et mobile Android
+
+Architecture Angular modulaire avec lazy loading, guards de navigation par rôle, intercepteurs HTTP centralisés et état réactif (RxJS). Génération de PDF institutionnels, Excel multi-feuilles et captures de carte. Application traduite en 2 langues (français, anglais), compilée Android via Capacitor avec géolocalisation en arrière-plan.
+
+#### 12. Déploiement et administration système
+
+Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production. Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
   
 ---
 
