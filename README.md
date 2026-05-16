@@ -85,7 +85,12 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 
 Conception et développement from scratch d'une **plateforme web & mobile sécurisée** pour la digitalisation du suivi des projets d'infrastructure routière du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
+#### CONCEPTION ET ARCHITECTURE DU SYSTÈME
+
 - Participation à l'analyse des besoins fonctionnels et techniques, puis responsabilité complète du développement : modélisation PostgreSQL, architecture API REST (Node.js / Express) couplée à une interface web et mobile hybride (Angular / Ionic), accessible depuis navigateur et terminal Android.
+
+#### WORKFLOW DE VALIDATION HIÉRARCHIQUE MULTI-NIVEAUX
+
 - Workflow de validation hiérarchique sur **14 niveaux de rôles institutionnels**, avec notifications email automatiques
 - Tableau de bord analytique (KPI, Taux de Réalisation Global, suivi financier, graphiques 12 mois)
 - Module de présence intelligente & reporting quotidien des agents de terrain
