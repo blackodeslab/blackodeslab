@@ -66,12 +66,6 @@ Passionné par la donnée, l'architecture logicielle propre et l'impact concret 
 ![SurveyCTO](https://img.shields.io/badge/surveycto-%230066CC.svg?style=for-the-badge&logo=data&logoColor=white)
 ![Google Forms](https://img.shields.io/badge/google%20forms-%23673AB7.svg?style=for-the-badge&logo=google&logoColor=white)
 
-#### 📎 Bureautique
-![Microsoft Office](https://img.shields.io/badge/microsoft%20office-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/google%20sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Google Docs](https://img.shields.io/badge/google%20docs-%234285F4.svg?style=for-the-badge&logo=google-docs&logoColor=white)
-![Google Slides](https://img.shields.io/badge/google%20slides-%23FBBC04.svg?style=for-the-badge&logo=google&logoColor=white)
-
 ---
 
 ### 💼 Projets Clés Réalisés
