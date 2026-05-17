@@ -168,6 +168,8 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 #### DATA COLLECTION & ANALYTICS ENGINEER
 
+**`KARTILE, RDC`**
+
 *  Conception et déploiement d’outils numériques de collecte de données pour le suivi des activités de terrain dans les projets de développement avec KoboToolbox.
 *  Gestion complète du traitement des données : extraction, fusion, nettoyage, transformation et structuration des bases de données.
 *  Analyse statistique et traitement des données avec R pour la production d’indicateurs et d’analyses décisionnelles.
