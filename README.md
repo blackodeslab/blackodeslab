@@ -71,9 +71,9 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ### 💼 Réalisations majeures
 
-I. Conception et développement d'une **plateforme web & mobile sécurisée** pour la digitalisation du **suivi des projets d'infrastructure routière** du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
+#### Conception et développement d'une **plateforme web & mobile sécurisée** pour la digitalisation du **suivi des projets d'infrastructure routière** du Ministère des Infrastructures, Travaux Publics, Affaires Foncières, Urbanisme et Habitat de la ville de Kinshasa (RDC).
 
-#### 1. Conception et architecture du système
+##### 1. Conception et architecture du système
 
 *  Participation à l'analyse des besoins fonctionnels et techniques.
 *  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST.
