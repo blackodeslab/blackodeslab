@@ -162,6 +162,14 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 *   Développement d'une interface premium "Vibrant Dark Mode" avec micro-animations, graphiques de probabilités dynamiques et sélecteurs de prix intelligents pour une expérience utilisateur fluide et addictive.
 *   Synchronisation bidirectionnelle entre l'état local Angular et les flux WebSocket pour mettre à jour les prix sans rafraîchissement, garantissant des données toujours fraîches pour le trading.
 
+#### DATA COLLECTION & ANALYTICS ENGINEER
+
+*  Conception et déploiement d’outils numériques de collecte de données pour le suivi des activités de terrain dans les projets de développement avec KoboToolbox.
+*  Gestion complète du traitement des données : extraction, fusion, nettoyage, transformation et structuration des bases de données.
+*  Analyse statistique et traitement des données avec R pour la production d’indicateurs et d’analyses décisionnelles.
+*  Rédaction de rapports techniques clairs, structurés et orientés suivi-évaluation.
+*  Développement de tableaux de bord interactifs avec R Shiny pour la visualisation des données et l’aide à la prise de décision.
+
 ---
 
 ### 🎓 PARCOURS ACADÉMIQUE
