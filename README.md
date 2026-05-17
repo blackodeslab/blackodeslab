@@ -137,7 +137,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 *  Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production.
 *  Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
-##### Conception et développement d'une plateforme de trading binaire et multi-options basée sur l'algorithme LMSR (Logarithmic Market Scoring Rule). Un écosystème Fintech complet gérant des flux financiers réels, de la liquidité algorithmique et une haute sécurité transactionnelle.
+#### Conception et développement d'une plateforme de trading binaire et multi-options basée sur l'algorithme LMSR (Logarithmic Market Scoring Rule). Un écosystème Fintech complet gérant des flux financiers réels, de la liquidité algorithmique et une haute sécurité transactionnelle.
 
 ##### 1. Ingénierie Financière & Moteur de Trading
 
