@@ -141,7 +141,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 #### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
 
-**`ZylOO Group SARL**
+**`ZylOO Group SARL`**
 
 ##### 1. Ingénierie Financière & Moteur de Trading
 
