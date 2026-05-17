@@ -12,7 +12,7 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ---
 
-### 🧰 Langages & Frameworks
+### 🧰 LANGAGES & FRAMEWORKS
 
 #### 🌐 Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,7 +69,7 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ---
 
-### 💼 Réalisations majeures
+### 💼 RÉALISATIONS MAJEURES
 
 #### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME WEB & MOBILE SÉCURISÉE POUR LA DIGITALISATION DU SUIVI DES PROJETS D'INFRASTRUCTURE ROUTIÈRE DU MINISTÈRE DES INFRASTRUCTURES, TRAVAUX PUBLICS, AFFAIRES FONCIÈRES, URBANISME ET HABITAT DE LA VILLE DE KINSHASA (RDC).
 
@@ -164,7 +164,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 ---
 
-### 🎓 Parcours Académique
+### 🎓 PARCOURS ACADÉMIQUE
 
 | Diplôme | Établissement | Période |
 |---|---|---|
@@ -174,7 +174,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 ---
 
-### 🏅 Certifications
+### 🏅 CERTIFICATIONS
 
 | Certification | Organisme | Année |
 |---|---|---|
@@ -191,7 +191,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 
 ---
 
-### 🌍 Langues
+### 🌍 LANGUES
 
 | Langue | Niveau |
 |---|---|
