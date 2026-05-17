@@ -71,7 +71,9 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ### 💼 RÉALISATIONS MAJEURES
 
-#### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME WEB & MOBILE SÉCURISÉE POUR LA DIGITALISATION DU SUIVI DES PROJETS D'INFRASTRUCTURE ROUTIÈRE DU MINISTÈRE DES INFRASTRUCTURES, TRAVAUX PUBLICS, AFFAIRES FONCIÈRES, URBANISME ET HABITAT DE LA VILLE DE KINSHASA (RDC).
+#### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME WEB & MOBILE SÉCURISÉE POUR LA DIGITALISATION DU SUIVI DES PROJETS D'INFRASTRUCTURE ROUTIÈRE.
+
+**`New Continent Group DRC SARL · Ministère des ITPAFUH de la ville de Kinshasa`**
 
 ##### 1. Conception et architecture du système
 
@@ -137,7 +139,9 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 *  Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production.
 *  Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
-#### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE). UN ÉCOSYSTÈME FINTECH COMPLET GÉRANT DES FLUX FINANCIERS RÉELS, DE LA LIQUIDITÉ ALGORITHMIQUE ET UNE HAUTE SÉCURITÉ TRANSACTIONNELLE.
+#### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
+
+**`ZylOO Group SARL**
 
 ##### 1. Ingénierie Financière & Moteur de Trading
 
