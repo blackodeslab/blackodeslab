@@ -1,4 +1,4 @@
-# Viviens KAPUKU
+# Hi, I'm Viviens 👋
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
