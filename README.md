@@ -131,7 +131,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 *  Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production.
 *  Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
-#### CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
+#### 🧑‍💻 CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
 
 **`ZylOO Group SARL`**
 
@@ -158,7 +158,7 @@ Sauvegarde nocturne automatique : dump base de données + compression des fichie
 *   Développement d'une interface premium "Vibrant Dark Mode" avec micro-animations, graphiques de probabilités dynamiques et sélecteurs de prix intelligents pour une expérience utilisateur fluide et addictive.
 *   Synchronisation bidirectionnelle entre l'état local Angular et les flux WebSocket pour mettre à jour les prix sans rafraîchissement, garantissant des données toujours fraîches pour le trading.
 
-#### DATA COLLECTION & ANALYTICS ENGINEER
+#### 🧑‍💻 DATA COLLECTION & ANALYTICS ENGINEER
 
 **`KARTILE, RDC`**
 
