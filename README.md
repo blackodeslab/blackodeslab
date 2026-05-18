@@ -85,22 +85,24 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 ##### 4. Suivi analytique des rapports soumis
 
 *  Vue temps réel des rapports soumis, filtrable par date et mot-clé.
-*  Export Excel (une feuille par journée) et PDF avec en-tête institutionnel et pied de page horodaté, compatible web et Android.
+*  Export Excel et PDF avec en-tête institutionnel et pied de page horodaté, compatible web et Android.
 
 ##### 5. Présence intelligente des agents
 
 *  Système de présence basé sur les connexions à la plateforme. Calcul intelligent excluant les agents non encore recrutés à la date analysée.
-*  Indicateurs temps réel : taux de présence, d'absentéisme et de soumission de rapports. Export Excel mensuel en grille calendrier par agent, avec symboles Présent / Absent / Non attendu.
+*  Indicateurs temps réel : taux de présence, d'absentéisme et de soumission de rapports.
+*  Export Excel mensuel en grille calendrier par agent, avec symboles Présent / Absent / Non attendu.
 
 ##### 6. Portail de géolocalisation en temps réel
 
-*  Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut (vert pour connecté, orange pour déconnecté).
+*  Carte géographique interactive de Kinshasa affichant la flotte d'agents avec marqueurs colorés selon leur statut.
 *  Filtres par projet ou agent, panneau d'indicateurs en temps réel et détection des terminaux sans coordonnées GPS.
 
 ##### 7. Synchronisation GPS en temps réel par WebSockets
 
 *  Architecture WebSocket avec authentification par jeton de session.
-*  Positions transmises, enregistrées, mises en cache et diffusées aux superviseurs instantanément. Limitation anti-abus à une mise à jour toutes les 30 secondes.
+*  Positions transmises, enregistrées, mises en cache et diffusées aux superviseurs instantanément.
+*  Limitation anti-abus à une mise à jour toutes les 30 secondes.
 *  Mode offline : accumulation locale des positions, envoi en lot au retour réseau et reconstruction chronologique en transaction atomique.
 
 ##### 8. Sécurité et gestion des accès
@@ -118,7 +120,8 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ##### 10. Archivage et sauvegarde automatisée
 
-Sauvegarde nocturne automatique : dump base de données + compression des fichiers uploadés, archivage horodaté, transfert multipart streaming vers stockage cloud (AWS S3). Email de confirmation aux administrateurs et purge automatique selon politique de rétention.
+*  Sauvegarde nocturne automatique : dump base de données + compression des fichiers uploadés, archivage horodaté, transfert multipart streaming vers stockage cloud (AWS S3).
+*  Email de confirmation aux administrateurs et purge automatique selon politique de rétention.
 
 ##### 11. Interface web et mobile Android
 
