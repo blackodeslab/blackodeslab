@@ -69,7 +69,7 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ##### 1. Conception et architecture du système
 
-*  Participation à l'analyse des besoins fonctionnels et techniques.
+*  Analyse des besoins fonctionnels et techniques.
 *  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST.
 
 ##### 2. Workflow de validation hiérarchique multi-niveaux
