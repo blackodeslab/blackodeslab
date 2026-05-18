@@ -70,7 +70,7 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 ##### 1. Conception et architecture du système
 
 *  Analyse des besoins fonctionnels et techniques.
-*  Responsabilité complète du développement : modélisation PostgreSQL, architecture API REST.
+*  Modélisation PostgreSQL & architecture API REST.
 
 ##### 2. Workflow de validation hiérarchique multi-niveaux
 
@@ -118,7 +118,7 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 ##### 10. Archivage et sauvegarde automatisée
 
-Sauvegarde nocturne automatique : dump base de données + compression des fichiers uploadés, archivage horodaté, transfert multipart streaming vers stockage cloud (AWS S3). 3 tentatives en cas d'échec, email de confirmation aux administrateurs et purge automatique selon politique de rétention.
+Sauvegarde nocturne automatique : dump base de données + compression des fichiers uploadés, archivage horodaté, transfert multipart streaming vers stockage cloud (AWS S3). Email de confirmation aux administrateurs et purge automatique selon politique de rétention.
 
 ##### 11. Interface web et mobile Android
 
