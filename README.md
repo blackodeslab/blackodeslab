@@ -165,8 +165,8 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 
 **`KARTILE, RDC`**
 
-*  Conception et déploiement d’outils numériques de collecte de données pour le suivi des activités de terrain dans les projets de développement avec KoboToolbox.
-*  Gestion complète du traitement des données : extraction, fusion, nettoyage, transformation et structuration des bases de données.
+*  Conception et déploiement d’outils numériques de collecte de données pour le suivi des activités de terrain dans les projets de développement.
+*  Extraction, fusion, nettoyage, transformation et structuration des bases de données.
 *  Analyse statistique et traitement des données avec R pour la production d’indicateurs et d’analyses décisionnelles.
 *  Rédaction de rapports techniques clairs, structurés et orientés suivi-évaluation.
 *  Développement de tableaux de bord interactifs avec R Shiny pour la visualisation des données et l’aide à la prise de décision.
