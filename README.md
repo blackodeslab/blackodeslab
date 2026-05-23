@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
-Focus sur la donnée, l'architecture logicielle et l'impact concret des solutions numériques.
+Focus sur la donnée, l’architecture logicielle et le développement d’applications web & mobiles robustes, avec une approche orientée performance, scalabilité et impact concret des solutions numériques.
 
 <p align="left">
   <a href="mailto:blackodeslab@gmail.com">
