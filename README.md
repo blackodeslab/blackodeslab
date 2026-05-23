@@ -37,16 +37,15 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) 
-![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 #### 🔧 Outils & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
 
 #### 🖥️ Systèmes, Virtualisation & Containers
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
