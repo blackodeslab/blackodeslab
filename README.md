@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer · Data Analyst · Problem Solver`**
 
-Passionné par la donnée, l'architecture logicielle et l'impact concret des solutions numériques.
+Focus sur la donnée, l'architecture logicielle et l'impact concret des solutions numériques.
 
 <p align="left">
   <a href="mailto:blackodeslab@gmail.com">
