@@ -33,12 +33,6 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### 📊 Data & BI
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) 
-![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
 #### ⚙️ Versioning & Collaboration
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -76,6 +70,12 @@ Passionné par la donnée, l'architecture logicielle et l'impact concret des sol
 ![KoboToolbox](https://img.shields.io/badge/kobotoolbox-%23416ECC.svg?style=for-the-badge&logo=kobo&logoColor=white)
 ![SurveyCTO](https://img.shields.io/badge/surveycto-%230066CC.svg?style=for-the-badge&logo=data&logoColor=white)
 ![Google Forms](https://img.shields.io/badge/google%20forms-%23673AB7.svg?style=for-the-badge&logo=google&logoColor=white)
+
+#### 📊 Data & BI
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) 
+![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
