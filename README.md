@@ -53,9 +53,10 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 #### 🤖 IA & Assistants de Développement
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-24292e?style=for-the-badge&logo=opencode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AntiGravity](https://img.shields.io/badge/AntiGravity-000000?style=for-the-badge&logo=rocket&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 #### 🛠️ Outils de Développement
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
