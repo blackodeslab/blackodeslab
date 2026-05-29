@@ -84,7 +84,7 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 
 ### 💼 RÉALISATIONS MAJEURES (DÉPÔTS PRIVÉS)
 
-#### 🧑‍💻 CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME WEB & MOBILE SÉCURISÉE POUR LA DIGITALISATION DU SUIVI DES PROJETS D'INFRASTRUCTURE ROUTIÈRE.
+#### 🧑‍💻 PLATEFORME WEB & MOBILE SÉCURISÉE POUR LA DIGITALISATION DU SUIVI DES PROJETS D'INFRASTRUCTURE ROUTIÈRE.
 
 **`New Continent Group DRC SARL · Ministère des ITPAFUH de la ville de Kinshasa`**
 
@@ -155,7 +155,7 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 *  Déploiement complet sur VPS Linux : reverse-proxy Nginx (HTTPS), gestionnaire de processus pour haute disponibilité, isolation des variables sensibles et journalisation applicative en production.
 *  Vérification automatique de version au démarrage côté client avec forçage de mise à jour.
 
-#### 🧑‍💻 CONCEPTION ET DÉVELOPPEMENT D'UNE PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
+#### 🧑‍💻 PLATEFORME DE TRADING BINAIRE ET MULTI-OPTIONS BASÉE SUR L'ALGORITHME LMSR (LOGARITHMIC MARKET SCORING RULE).
 
 **`ZylOO Group SARL`**
 
