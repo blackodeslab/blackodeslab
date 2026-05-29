@@ -1,6 +1,6 @@
 # Hi, I'm Viviens 👋
 
-**`Full-Stack Developer · Data Analyst · Problem Solver`**
+**`Full-Stack Developer · Data Analyst · Formateur`**
 
 Architecture logicielle et développement d'applications web & mobiles robustes. Approche centrée sur la donnée, la scalabilité et l'impact concret.
 
