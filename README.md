@@ -80,6 +80,7 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![QGIS](https://img.shields.io/badge/qgis-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white) 
 ![Shiny](https://img.shields.io/badge/shiny-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Google Earth](https://img.shields.io/badge/Google_Earth_Pro-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
 
 ---
 
