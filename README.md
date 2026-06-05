@@ -43,7 +43,7 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 #### 🌐 Serveurs & Infrastructure
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Backblaze (AWS)](https://img.shields.io/badge/Backblaze_B2-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
+![Backblaze](https://img.shields.io/badge/Backblaze_B2-E21E29?style=for-the-badge&logo=backblaze&logoColor=white)
 
 #### 📡 Messaging, Communication & Monitoring
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
