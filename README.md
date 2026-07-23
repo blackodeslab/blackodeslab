@@ -183,7 +183,7 @@ Architecture logicielle et développement d'applications web & mobiles robustes.
 *   Développement d'une interface premium "Vibrant Dark Mode" avec micro-animations, graphiques de probabilités dynamiques et sélecteurs de prix intelligents pour une expérience utilisateur fluide et addictive.
 *   Synchronisation bidirectionnelle entre l'état local Angular et les flux WebSocket pour mettre à jour les prix sans rafraîchissement, garantissant des données toujours fraîches pour le trading.
 
-#### 🧑‍💻 DATA COLLECTION & ANALYTICS ENGINEER
+#### 🧑‍💻 DATA COLLECTION & ANALYTICS
 
 **`KARTILE, RDC`**
 
